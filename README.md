@@ -4,7 +4,7 @@ This repository contains the source code for my personal web development portfol
 
 ## Live Site
 View the live portfolio:  
-[Portfolio Website](https://yourusername.github.io/matthew-portfolio)
+[Portfolio Website](https://mgwolford.github.io/matthew-portfolio/)
 
 ## Technologies Used
 - HTML5
